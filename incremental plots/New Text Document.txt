@@ -1,0 +1,3 @@
+This folder is necessary for when the self.incremental_plot = True is set. 
+
+After every self.print_frequency iterations an image will be plotted and saved here.
